@@ -1,1 +1,1 @@
-Temporary resume which can be viewed here: www.github.io/resume
+Temporary resume which can be viewed here: https://mojjammil.github.io/resume/
